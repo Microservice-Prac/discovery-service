@@ -4,4 +4,4 @@ Spring Cloud Netflix Eureka: Service Discovery
 ## Development
 
 ### Requirements
-- Java >= 21.*
+- Java >= 17.*
